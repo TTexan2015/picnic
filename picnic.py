@@ -14,7 +14,7 @@ total_cost = venue_cost + total_lunch_cost + total_snacks_cost
 per_person_cost = total_cost / headcount
 
 # Output
-print("Total cost:", total_cost)
-print("Per person cost:", per_person_cost)
+print("Total cost =>", total_cost)
+print("Per person cost =>", per_person_cost)
 
 
